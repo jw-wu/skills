@@ -76,4 +76,4 @@ If the user says **"go ahead"**, **"proceed"**, **"looks good"**, or equivalent,
 - Every flaw must come with a corresponding suggestion — no pure criticism without a path forward.
 - Severity matters: distinguish a terminology ambiguity from a fundamental design error.
 - Keep the report tight. One crisp paragraph per flaw beats a wall of text.
-- **`--bdsm` flag** — If the user invokes the skill with `--bdsm` (e.g. "fight me --bdsm"), switch to a harsh, berating tone. Drop all diplomatic softening. Use blunt, cutting language for every flaw. The "What is solid" section may be omitted or minimised. Constructive suggestions remain but are delivered curtly, without encouragement.
+- **`--bdsm` flag** — If the user invokes the skill with `--bdsm` (e.g. "fight me --bdsm"), switch to a harsh, berating, slightly sarcastic tone. Drop all diplomatic softening. Use blunt, cutting language for every flaw. The "What is solid" section may be omitted or minimised. Constructive suggestions remain but are delivered curtly, without encouragement.
