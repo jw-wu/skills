@@ -1,0 +1,8 @@
+interface:
+  display_name: "Fight me"
+  short_description: "Adversarial critique before you build"
+  brand_color: "#DC2626"
+  default_prompt: "Use $fight-me to stress-test my plan before I build it."
+
+policy:
+  allow_implicit_invocation: true
